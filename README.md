@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">📚 I'm currently enrolled in Game Development Bachelor’s degree at IPMAIA. <br><br>I previously worked as a noc technician and earned a certification in CCNA.<br><br>🎯 Goals:  I aim to become proficient in computers at the highest level.<br><br>🎲 Fun fact: i make gin as a hobby...</p>
+<p align="left">📚 I'm currently enrolled in Game Development Bachelor’s degree at IPMAIA. <br>Co-developing a mod for Thunder Tier One as my final Bachelor’s project in Game Development, supported by Krafton Portugal.<br> Contributing to an open-source project within Tecporto<br><br>I previously worked as a noc technician and earned a certification in CCNA.<br><br>🎯 Goals:  I aim to become proficient in computers at the highest level.<br><br>🎲 Fun fact: i make gin as a hobby...</p>
+
+
 
 ###
 
