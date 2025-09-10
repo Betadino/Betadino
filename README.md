@@ -1,9 +1,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-https://portfolio.tmoreira.games/
+https://portfolio.tmoreira.online/
 
-<p align="left">My name is Tiago and I'm an aspiring GameDev.</p>
+<p align="left">My name is Tiago and I'm a Software Developer/GameDev.</p>
 
 ###
 
