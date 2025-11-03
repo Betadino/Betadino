@@ -13,7 +13,6 @@ https://portfolio.tmoreira.online/
 
 <p align="left">
 📚 I hold a Bachelor's degree in Game Development from IPMAIA.<br>
-Actively contributing to an open-source project within Tecporto.<br><br>
 
 💼 Previously worked as a NOC technician and where i got CCNA certification.<br><br>
 
