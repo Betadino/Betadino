@@ -12,13 +12,8 @@ https://portfolio.tmoreira.online/
 ###
 
 <p align="left">
-📚 I hold a Bachelor's degree in Game Development from IPMAIA.<br>
-
-💼 Previously worked as a NOC technician and where i got CCNA certification.<br><br>
-
-🎯 Goals: I aim to master computers at the highest level.<br><br>
-
-🎲 Fun fact: I make gin as a hobby...
+  I like games, hiking, running , cars and some other shenanigans
+🎲 Fun fact: I make gin as a hobby
 </p>
 
 
